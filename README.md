@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jose Maria</h1>
 <h3 align="center">A passionate software developer from Bolivia</h3>
 
-<img align="right" alt="thinking" width="350" src="https://media.giphy.com/media/tvU9iTev6uBIQ/giphy.gif">
+<img align="right" alt="thinking" width="250" src="https://media.giphy.com/media/tvU9iTev6uBIQ/giphy.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josmaria" alt="josmaria" /></a> </p>
 
 - 🔭 I’m currently working on **ornamental-plants**
